@@ -215,8 +215,8 @@
 .service-img {
   position: absolute;
   z-index: 4;
-  bottom: 80px;
   margin-left: 400px;
+  margin-top: -185px;
 }
 
 .service-frame img{
