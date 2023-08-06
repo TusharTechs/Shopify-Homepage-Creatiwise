@@ -523,6 +523,10 @@
   font-weight: 700;
 }
 
+#popular-cat-text{
+  margin-left: 50px;
+}
+
 .popular-cat-text button{
   color: #FF4C11;
   font-size: 13px;
