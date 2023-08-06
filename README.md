@@ -2,6 +2,9 @@
 
 This is the homepage for my Shopify Project, which I designed using HTML and CSS. It showcases the products and services offered by my Shopify store and provides a pleasant user experience to visitors.
 
+## Deployment Link
+[Shopify-Homepage](https://shopify-homepage-creatiwise-cqlu.vercel.app/)
+
 ## Table of Contents
 
 - [Description](#description)
